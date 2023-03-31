@@ -1,0 +1,1 @@
+export const WORKOUTS_URL = "http://localhost:3005/api/workouts";
